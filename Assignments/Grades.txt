@@ -1,1 +1,3 @@
-Average grade so far : 19,25 / 20
+Average grade without bonuses : 19.01 / 20
+
+Average grade with bonuses : > 20 / 20
